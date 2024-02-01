@@ -9,10 +9,32 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 22:25:04 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 23:37:53 +0200</lastBuildDate>
     
 	<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post Nr. 2</title>
+      <link>https://example.org/posts/post2/</link>
+      <pubDate>Thu, 01 Feb 2024 23:37:53 +0200</pubDate>
+      
+      <guid>https://example.org/posts/post2/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Task#Dog image
+Code block of Hello World Java application
+class HelloWorld { public static void main(String[] args) { System.out.println(&amp;#34;Hello, World!&amp;#34;); } } 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>First blog post</title>
